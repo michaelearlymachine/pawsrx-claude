@@ -1,0 +1,27 @@
+{
+  "name": "pawsrx",
+  "displayName": "PawsRx",
+  "version": "1.0.0",
+  "description": "Find a US vet or groomer that sees your animal, check hours, open times and the prices practices publish, request an appointment, or send a question to an independent veterinarian.",
+  "author": {
+    "name": "PawsRx LLC",
+    "email": "hello@pawsrx.io",
+    "url": "https://pawsrx.io"
+  },
+  "homepage": "https://pawsrx.io/connectors",
+  "privacyPolicyUrl": "https://pawsrx.io/privacy",
+  "repository": "https://github.com/michaelearlymachine/pawsrx-claude",
+  "license": "MIT",
+  "keywords": [
+    "pets",
+    "vet",
+    "veterinarian",
+    "animal hospital",
+    "dog",
+    "cat",
+    "exotic pets",
+    "grooming",
+    "pet care costs",
+    "appointments"
+  ]
+}
