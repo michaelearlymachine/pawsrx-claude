@@ -8,7 +8,7 @@
     "email": "hello@pawsrx.io",
     "url": "https://pawsrx.io"
   },
-  "homepage": "https://pawsrx.io/connectors",
+  "homepage": "https://pawsrx.io/connectors/docs",
   "privacyPolicyUrl": "https://pawsrx.io/privacy",
   "repository": "https://github.com/michaelearlymachine/pawsrx-claude",
   "license": "MIT",

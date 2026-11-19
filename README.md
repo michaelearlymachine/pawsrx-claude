@@ -54,7 +54,7 @@ The directory, prices and appointment requests cover the United States. Ask a Ve
 
 ## Support
 
-Email hello@pawsrx.io. More about connecting PawsRx to an assistant: [pawsrx.io/connectors](https://pawsrx.io/connectors).
+Email hello@pawsrx.io. Full documentation, including how to connect PawsRx to other assistants: [pawsrx.io/connectors/docs](https://pawsrx.io/connectors/docs).
 
 ## License
 
